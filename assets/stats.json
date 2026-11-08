@@ -1,39 +1,7 @@
 {
   "calendar": {
-    "totalContributions": 3211,
+    "totalContributions": 3214,
     "weeks": [
-      {
-        "contributionDays": [
-          {
-            "date": "2025-11-02",
-            "contributionCount": 0
-          },
-          {
-            "date": "2025-11-03",
-            "contributionCount": 4
-          },
-          {
-            "date": "2025-11-04",
-            "contributionCount": 0
-          },
-          {
-            "date": "2025-11-05",
-            "contributionCount": 1
-          },
-          {
-            "date": "2025-11-06",
-            "contributionCount": 2
-          },
-          {
-            "date": "2025-11-07",
-            "contributionCount": 9
-          },
-          {
-            "date": "2025-11-08",
-            "contributionCount": 0
-          }
-        ]
-      },
       {
         "contributionDays": [
           {
@@ -1694,13 +1662,21 @@
           },
           {
             "date": "2026-11-07",
+            "contributionCount": 3
+          }
+        ]
+      },
+      {
+        "contributionDays": [
+          {
+            "date": "2026-11-08",
             "contributionCount": 0
           }
         ]
       }
     ]
   },
-  "calendarUpdated": "2026-11-07",
+  "calendarUpdated": "2026-11-08",
   "activity": {
     "commits": 1286,
     "prs": 233,
